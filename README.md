@@ -136,14 +136,6 @@ Welcome to the **Machine Learning Content 2025** repository! This repo contains 
 
 # 👨‍💻 Instructors  
 
-### 👨‍💻 Hossam Ahmed - `Director`
-<p>
-  <a href="https://www.linkedin.com/in/hossamahmedsalah/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.kaggle.com/hossamahmedsalah/"><img src="https://img.shields.io/badge/Kaggle-%230098D6.svg?style=for-the-badge&logo=kaggle&logoColor=white"></a>
-  <a href="https://github.com/hossamAhmedSalah/"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
-
-
 
 ### 👨‍💻 Ziad Waleed - `Vice Director`
 <p>
